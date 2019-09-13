@@ -1,4 +1,4 @@
-# 2019-TIFS-AnomalyNet
+# 2019-TPAMI-DATNet
 * J. T. Zhou, H. Zhang, D. Jin and **Xi Peng\***, Dual Adversarial Transfer for Sequence
   Labeling, IEEE Trans Pattern Analysis and Machine Intelligence (TPAMI). DOI: 10.1109/TPAMI.2019.2931569. 
 * @ARTICLE{Zhou2019:Dual:TPAMI,   
